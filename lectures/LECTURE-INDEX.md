@@ -6,22 +6,22 @@
 
 ## 📋 All Lectures at a Glance
 
-| # | Topic | Textbook | Status | Notes |
-|---|-------|----------|--------|-------|
-| 0 | [Course Overview](./00-course-overview/) | - | ⬜ | |
-| 1 | [Review of First-Order Logic](./01-review-first-order-logic/) | - | ⬜ | |
-| 2 | [Introduction to Simple Type Theory](./02-intro-simple-type-theory/) | Ch 1-2 | ⬜ | |
-| 3 | [Preliminary Concepts](./03-preliminary-concepts/) | Ch 3 | ⬜ | |
-| 4 | [Alonzo: Syntax and Semantics](./04-alonzo-syntax-semantics/) | Ch 4-7 | ⬜ | |
-| 5 | [Proof Systems](./05-proof-systems/) | Ch 8, App A-C | ⬜ | |
-| 6 | [Theories](./06-theories/) | Ch 9 | ⬜ | |
-| 7 | [Inductive Sets and Types](./07-inductive-sets-types/) | Ch 10 | ⬜ | |
-| 8 | [Sequences](./08-sequences/) | Ch 11 | ⬜ | |
-| 9 | [Developments](./09-developments/) | Ch 12-13 | ⬜ | |
-| 10 | [Morphisms](./10-morphisms/) | Ch 14 | ⬜ | |
-| 11 | [Alonzo Variants](./11-alonzo-variants/) | Ch 15 | ⬜ | |
-| 12 | [Software Support](./12-software-support/) | Ch 16 | ⬜ | |
-| 13 | [Project Presentations](./13-project-presentations/) | - | ⬜ | |
+| # | Topic | Textbook | Slides | Status |
+|---|-------|----------|--------|--------|
+| 0 | [Course Overview](./00-course-overview/) | - | ✅ [0-course-overview.pdf](./00-course-overview/0-course-overview.pdf) | ⬜ Not attended |
+| 1 | [Review of First-Order Logic](./01-review-first-order-logic/) | - | ✅ [1-first-order-logic.pdf](./01-review-first-order-logic/1-first-order-logic.pdf) | ⬜ |
+| 2 | [Introduction to Simple Type Theory](./02-intro-simple-type-theory/) | Ch 1-2 | ✅ [2-intro-to-stt.pdf](./02-intro-simple-type-theory/2-intro-to-stt.pdf) | ⬜ |
+| 3 | [Preliminary Concepts](./03-preliminary-concepts/) | Ch 3 | ✅ [3-prelim-concepts.pdf](./03-preliminary-concepts/3-prelim-concepts.pdf) | ⬜ |
+| 4 | [Alonzo: Syntax and Semantics](./04-alonzo-syntax-semantics/) | Ch 4-7 | ✅ [4-alonzo.pdf](./04-alonzo-syntax-semantics/4-alonzo.pdf) | ⬜ |
+| 5 | [Proof Systems](./05-proof-systems/) | Ch 8, App A-C | ✅ [5-proof-systems.pdf](./05-proof-systems/5-proof-systems.pdf) | ⬜ |
+| 6 | [Theories](./06-theories/) | Ch 9 | ✅ [6-theories.pdf](./06-theories/6-theories.pdf) | ⬜ |
+| 7 | [Inductive Sets and Types](./07-inductive-sets-types/) | Ch 10 | ✅ [7-ind-sets-and-types.pdf](./07-inductive-sets-types/7-ind-sets-and-types.pdf) | ⬜ |
+| 8 | [Sequences](./08-sequences/) | Ch 11 | ✅ [8-sequences.pdf](./08-sequences/8-sequences.pdf) | ⬜ |
+| 9 | [Developments](./09-developments/) | Ch 12-13 | ✅ [9-developments.pdf](./09-developments/9-developments.pdf) | ⬜ |
+| 10 | [Morphisms](./10-morphisms/) | Ch 14 | ✅ [10-morphisms.pdf](./10-morphisms/10-morphisms.pdf) | ⬜ |
+| 11 | [Alonzo Variants](./11-alonzo-variants/) | Ch 15 | ✅ [11-alonzo-variants.pdf](./11-alonzo-variants/11-alonzo-variants.pdf) | ⬜ |
+| 12 | [Software Support](./12-software-support/) | Ch 16 | ✅ [12-software.pdf](./12-software-support/12-software.pdf) | ⬜ |
+| 13 | [Project Presentations](./13-project-presentations/) | - | - | ⬜ |
 
 ---
 

@@ -4,10 +4,25 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
+| Item | Details |
+|------|---------||
+| **Week** | 7-8 |
+| **Slides** | ✅ [6-theories.pdf](./6-theories.pdf) |
+| **Textbook** | Chapter 9 |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
 - [ ] Read Chapter 9 of STT textbook
-- [ ] Downloaded slides from Avenue
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended lecture
 - [ ] Reviewed notes same day
 - [ ] Practice writing theories

@@ -4,10 +4,25 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
+| Item | Details |
+|------|---------||
+| **Week** | 3-4 |
+| **Slides** | ✅ [3-prelim-concepts.pdf](./3-prelim-concepts.pdf) |
+| **Textbook** | Chapter 3 |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
 - [ ] Read Chapter 3 of STT textbook
-- [ ] Downloaded slides from Avenue
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended lecture
 - [ ] Reviewed notes same day
 - [ ] Completed key concepts below

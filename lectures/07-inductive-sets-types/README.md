@@ -4,10 +4,25 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
+| Item | Details |
+|------|---------||
+| **Week** | 8-9 |
+| **Slides** | ✅ [7-ind-sets-and-types.pdf](./7-ind-sets-and-types.pdf) |
+| **Textbook** | Chapter 10 |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
 - [ ] Read Chapter 10 of STT textbook
-- [ ] Downloaded slides from Avenue
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended lecture
 - [ ] Reviewed notes same day
 - [ ] Practice exercises

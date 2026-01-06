@@ -4,10 +4,25 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
+| Item | Details |
+|------|---------||
+| **Week** | 12 |
+| **Slides** | ✅ [12-software.pdf](./12-software.pdf) |
+| **Textbook** | Chapter 16 |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
 - [ ] Read Chapter 16 of STT textbook
-- [ ] Downloaded slides from Avenue
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended lecture
 - [ ] Reviewed notes same day
 - [ ] Explored at least one proof assistant

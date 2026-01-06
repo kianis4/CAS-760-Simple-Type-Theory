@@ -4,10 +4,25 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
+| Item | Details |
+|------|---------||
+| **Week** | 2-3 |
+| **Slides** | ✅ [2-intro-to-stt.pdf](./2-intro-to-stt.pdf) |
+| **Textbook** | Chapters 1-2 |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
 - [ ] Read Chapters 1-2 of STT textbook
-- [ ] Downloaded slides from Avenue
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended lecture
 - [ ] Reviewed notes same day
 - [ ] Completed key concepts below

@@ -4,10 +4,25 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
+| Item | Details |
+|------|---------||
+| **Week** | 4-6 |
+| **Slides** | ✅ [4-alonzo.pdf](./4-alonzo.pdf) |
+| **Textbook** | Chapters 4, 5, 6, 7 |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
 - [ ] Read Chapters 4-7 of STT textbook
-- [ ] Downloaded slides from Avenue
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended all lectures on this topic
 - [ ] Reviewed notes after each lecture
 - [ ] Completed key concepts below

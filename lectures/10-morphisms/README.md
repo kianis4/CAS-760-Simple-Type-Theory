@@ -4,11 +4,26 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
+| Item | Details |
+|------|---------||
+| **Week** | 11 |
+| **Slides** | ✅ [10-morphisms.pdf](./10-morphisms.pdf) |
+| **Textbook** | Chapter 14 |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
 - [ ] Read Chapter 14 of STT textbook
 - [ ] Read Monoid Theory paper (Avenue)
-- [ ] Downloaded slides from Avenue
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended lecture
 - [ ] Reviewed notes same day
 - [ ] Practice exercises

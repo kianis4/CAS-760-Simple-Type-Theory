@@ -4,9 +4,25 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
-- [ ] Downloaded slides from Avenue
+| Item | Details |
+|------|---------||
+| **Week** | 1-2 |
+| **Slides** | ✅ [1-first-order-logic.pdf](./1-first-order-logic.pdf) |
+| **Textbook** | Prerequisite material (review) |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
+- [ ] Reviewed FOL from previous courses
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended lecture
 - [ ] Reviewed notes same day
 - [ ] Completed key concepts below

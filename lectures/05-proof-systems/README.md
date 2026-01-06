@@ -4,11 +4,26 @@
 
 ---
 
-## ✅ Checklist
+## 📅 Lecture Info
 
+| Item | Details |
+|------|---------||
+| **Week** | 6-7 |
+| **Slides** | ✅ [5-proof-systems.pdf](./5-proof-systems.pdf) |
+| **Textbook** | Chapter 8, Appendices A-C |
+| **Status** | ⬜ Not yet attended |
+
+---
+
+## ✅ Pre-Lecture Checklist
+
+- [x] Slides downloaded ✅
+- [ ] Skimmed slides before lecture
 - [ ] Read Chapter 8 of STT textbook
 - [ ] Read Appendices A, B, C
-- [ ] Downloaded slides from Avenue
+
+## ✅ Post-Lecture Checklist
+
 - [ ] Attended lecture
 - [ ] Reviewed notes same day
 - [ ] Practice proof exercises
