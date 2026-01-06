@@ -32,28 +32,41 @@
 
 ## 📋 Lecture Overview
 
-**Date:** Weeks 7-8  
-**Duration:** ~150 minutes  
+**Source:** `6-theories.pdf`  
+**Total Slides:** 48  
 **Textbook:** STT Chapter 9
 
-**Topics Covered:**
-- What is a theory?
-- Axioms and signatures
-- Specifying mathematical structures
-- Single structures vs. classes of structures
-- Theory examples
+### 📑 Lecture Outline (6 Sections)
+
+| # | Section | Slides | Key Focus |
+|---|---------|--------|----------|
+| 1 | Axiomatic Theories | 3-13 | Theory definition, modules, examples (MON, PA, RA) |
+| 2 | Theory Extensions | 14-20 | Language/axiom extensions, semantics |
+| 3 | Conservative Extensions | 21-33 | Definitional, specificational, recursive definitions |
+| 4 | Categorical Theories | 34-40 | Maximal theories, PA categoricity |
+| 5 | Complete Theories | 41-45 | Gödel's incompleteness, essential incompleteness |
+| 6 | Fundamental Form | 46-47 | Mathematical problem structure |
 
 ---
 
 ## 🎯 Learning Objectives
 
 **Knowledge:**
-- [ ] 1c: Know what mathematical structures are
-- [ ] 1c: Know how to specify structures in Alonzo
+- [ ] Define theory as pair $T = (L, \Gamma)$ with language and axioms
+- [ ] Distinguish theory closure $\overline{T}$ (all theorems) from axioms
+- [ ] Write theory definition modules (name, language, axioms)
+- [ ] Define theory extensions: $T_1 \leq T_2$
+- [ ] Define conservative extension: no new theorems in original language
+- [ ] Distinguish definitional vs specificational extensions
+- [ ] Explain recursive definition schemes
+- [ ] Define categorical theories (unique model up to isomorphism)
+- [ ] State Gödel's First Incompleteness Theorem for Alonzo
+- [ ] Explain essential incompleteness of sufficiently strong theories
 
 **Skills:**
-- [ ] 2a: Express mathematical ideas in STT
-- [ ] 2b: Write theories for mathematical structures
+- [ ] Write theories for: Monoids, Groups, Partial Orders, PA
+- [ ] Extend theories conservatively
+- [ ] Determine if a theory is categorical
 
 ---
 
