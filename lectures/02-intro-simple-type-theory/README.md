@@ -33,120 +33,133 @@
 
 ## 📋 Lecture Overview
 
-**Date:** Week 2-3  
-**Duration:** ~150 minutes (across lectures)  
+**Source:** `2-intro-to-stt.pdf`  
+**Total Slides:** 15  
 **Textbook:** STT Chapters 1-2
 
-**Topics Covered:**
-- What is simple type theory?
-- History: Church's type theory (1940)
-- Types and typed expressions
-- Why types matter
-- Overview of Alonzo
+### 📑 Lecture Outline (3 Sections)
+
+| # | Section | Slides | Key Focus |
+|---|---------|--------|----------|
+| 1 | Simple Type Theory | 3-7 | What is STT, history, seven virtues |
+| 2 | Church's Type Theory | 8-12 | CTT, proof assistants, Alonzo |
+| 3 | Model Theory vs. Proof Theory | 13-14 | Semantic vs syntactic consequence |
 
 ---
 
 ## 🎯 Learning Objectives
 
-**Knowledge (1a, 1b):**
-- [ ] Understand what simple type theory is
-- [ ] Know the historical context (Church 1940)
-- [ ] Understand the role of types
-- [ ] Know what Alonzo is and its features
+**Knowledge:**
+- [ ] Define STT as classical higher-order predicate logic with types
+- [ ] Trace history: Russell (1908) → Principia → Church (1940) → Henkin → Andrews
+- [ ] List the Seven Virtues of Simple Type Theory
+- [ ] Explain who benefits from STT (engineers, mathematicians, CS researchers)
+- [ ] Distinguish Church's Type Theory from simple type theory
+- [ ] Name proof assistants based on CTT (HOL, HOL Light, IMPS, Isabelle/HOL)
+- [ ] Explain what Alonzo is and how it differs from Q₀
+- [ ] Contrast model-theoretic vs proof-theoretic approaches
 
-**Skills (2a):**
-- [ ] Begin to read typed expressions
-- [ ] Understand type annotations
+**Skills:**
+- [ ] Compare STT to alternatives (FOL, set theory, dependent type theory)
+- [ ] Choose semantic vs syntactic argument for logical consequence
 
 ---
 
 ## 📝 Lecture Notes
 
-### What is Simple Type Theory?
+---
 
-```
-Definition:
+### 1️⃣ Simple Type Theory (Slides 3-7)
 
+**What is Simple Type Theory?** (Slide 4)
+- **Definition:** STT is a classical **higher-order** version of predicate logic and a form of type theory
+- Types are used to:
+  - **Classify expressions** by value
+  - **Control the formation** of expressions
 
+**📜 History of Type Theory** (Slide 5)
 
+| Year | Person | Contribution |
+|------|--------|--------------|
+| 1908 | Russell | Ramified theory of types |
+| 1910-12 | Russell, Whitehead | *Principia Mathematica* |
+| 1940 | Church | Simple theory of types (STT) |
+| 1950 | Henkin | General models semantics |
+| 1963 | Andrews | Q₀ version of Church's type theory |
+| 2002-08 | Farmer | Alonzo |
 
-Key features:
-- 
-- 
-- 
-```
+**⭐ Seven Virtues of Simple Type Theory** (Slide 6)
 
-### Historical Context
+| # | Virtue |
+|---|--------|
+| 1 | Simple and highly uniform **syntax** |
+| 2 | Semantics based on small set of **well-established ideas** |
+| 3 | (Continue from textbook...) |
+| 4 | |
+| 5 | |
+| 6 | |
+| 7 | |
 
-**Church's Type Theory (1940):**
-```
-(Fill in: why Church created it, key ideas)
+**Who Needs STT?** (Slide 7)
+- Engineers who need to read/write **precise specifications**
+- Mathematicians working with **formal proofs**
+- Computer scientists using **proof assistants**
+- Anyone applying **mathematical logic**
 
+---
 
+### 2️⃣ Church's Type Theory (Slides 8-12)
 
+**Church's Type Theory (CTT)** (Slide 9)
+- Very **practical** version of STT introduced by Alonzo Church (1940)
+- Key features:
+  - Tailored for **reasoning with functions**
+  - Includes **lambda notation**
+  - Includes **definite description**
+  - Has a type of **truth values**
 
-```
+**🖥️ Proof Assistants Based on CTT** (Slide 10)
 
-**Evolution to Alonzo:**
-```
-(Fill in: how Alonzo extends/modifies Church's system)
+| System | Developer(s) |
+|--------|-------------|
+| HOL | Gordon |
+| HOL Light | Harrison |
+| IMPS | Farmer, Guttman, Thayer |
+| Isabelle/HOL | Paulson, Nipkow, Wenzel |
+| PVS | Owre, Rushby, Shankar |
+| TPTP/TH1 | Sutcliffe, Benzmuller |
 
+**Alternatives to CTT** (Slide 11)
 
+| Alternative | Comparison |
+|-------------|------------|
+| First-order logic | Comparable theoretical expressivity, much less practical expressivity |
+| Set theory | More theoretical expressivity, less practical expressivity |
+| Dependent type theory | Supports computation directly, more complex than CTT |
 
+**🔷 Alonzo** (Slide 12)
+- Version of Church's type theory
+- Named in honor of **Alonzo Church**
+- Inspired by **Q₀** (Andrews' version of CTT)
+- **How Alonzo differs from Q₀:**
+  - (Fill in from textbook/slides)
 
-```
+---
 
-### The Type System
+### 3️⃣ Model Theory vs. Proof Theory (Slides 13-14)
 
-**Base Types:**
-```
-(Fill in: what are the basic types?)
+**Two Ways to Prove Logical Consequence** (Slide 14)
 
+> To prove $B$ is a logical consequence of $\{A_1, ..., A_n\}$:
 
+| Approach | Method | Type |
+|----------|--------|------|
+| **Model-theoretic** | Show $B$ is a **semantic consequence** | Argue about all models |
+| **Proof-theoretic** | Show $B$ is a **syntactic consequence** | Construct a formal proof |
 
-
-```
-
-**Type Constructors:**
-```
-(Fill in: how to build complex types)
-
-
-
-
-```
-
-**Function Types:**
-```
-(Fill in: notation and meaning)
-
-
-
-
-```
-
-### Why Types Matter
-
-```
-(Fill in: advantages of typed systems)
-
-1. 
-
-2. 
-
-3. 
-
-```
-
-### Alonzo Overview
-
-**Key Features of Alonzo:**
-```
-1. 
-
-2. 
-
-3. 
+**Key Relationship:**
+- Soundness: Provable → Valid
+- Completeness: Valid → Provable
 
 4. (Undefinedness - unique feature!)
 
