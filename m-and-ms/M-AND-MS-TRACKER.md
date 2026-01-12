@@ -38,17 +38,13 @@ At the end of each week, submit a **short paragraph (2-4 sentences)** that does 
 
 **Due:** Friday, January 10
 
-**Status:** ⬜ Not Submitted
+**Status:** ✅ Submitted
 
-**Type:** ⬜ Meaningful ⬜ Not Understood ⬜ Feedback
+**Type:** ✅ Meaningful ⬜ Not Understood ⬜ Feedback
 
 **Draft:**
 ```
-(Write your 2-4 sentences here, then copy to Avenue)
-
-
-
-
+Something memorable from this week was Dr. Farmer's anecdote about when he was still a student and found himself in a room with some of the great logicians of the time—he was "the little guy" back then. I found this story extremely meaningful because it humanized the journey of becoming an expert in this field. It made me reflect on the part I will play during my own graduate studies and reminded me that even the most accomplished scholars started exactly where I am now.
 ```
 
 **Submitted on Avenue:** ⬜

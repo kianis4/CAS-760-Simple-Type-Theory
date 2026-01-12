@@ -11,19 +11,19 @@
 | **Date** | Week 1 - Tuesday |
 | **Slides** | ✅ [0-course-overview.pdf](./0-course-overview.pdf) |
 | **Textbook** | N/A (introductory) |
-| **Status** | ⬜ Not yet attended |
+| **Status** | ✅ Completed |
 
 ---
 
 ## ✅ Pre-Lecture Checklist
 
 - [x] Slides downloaded ✅
-- [ ] Skimmed slides before lecture (10 min)
-- [ ] Prepared questions
+- [x] Skimmed slides before lecture (10 min)
+- [x] Prepared questions
 
 ## ✅ Post-Lecture Checklist
 
-- [ ] Attended lecture
+- [x] Attended lecture ✅
 - [ ] Reviewed notes same day (15 min)
 - [ ] Completed key concepts below
 - [ ] Wrote M&M reflection
@@ -208,4 +208,4 @@ Questions to ask in office hours or discussion forum:
 
 ---
 
-*Completed: ⬜ Yes / ⬜ No*
+*Completed: ✅ Yes / ⬜ No*
