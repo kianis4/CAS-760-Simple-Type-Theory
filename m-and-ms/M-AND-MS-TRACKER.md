@@ -57,14 +57,11 @@ Something memorable from this week was Dr. Farmer's anecdote about when he was s
 
 **Status:** ⬜ Not Submitted
 
-**Type:** ⬜ Meaningful ⬜ Not Understood ⬜ Feedback
+**Type:** ✅ Meaningful ⬜ Not Understood ⬜ Feedback
 
 **Draft:**
 ```
-
-
-
-
+This week's refresher on formal definitions for languages and semantics was especially meaningful for me. It's been a while since I covered these foundational topics in depth, so revisiting the precise definitions helped solidify concepts that had become somewhat fuzzy over time. The review gave me a much stronger foundation as we transition into simple type theory, and I appreciated how the lectures connected these formal structures to what we'll be building on in the coming weeks.
 ```
 
 **Submitted on Avenue:** ⬜
